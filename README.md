@@ -36,11 +36,12 @@ DevOps:   Ubuntu/CentOS, Nginx/Apache, Git, SSH, Backup Automation
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
+| **RBAC Module** | Reusable authentication & authorization | Laravel, PostgreSQL | [Demo](https://youtu.be/NjHxrj3cWsw) |
 | **Simanisku** | Government performance accountability (SAKIP) platform | Laravel, Livewire, PostgreSQL | [Live](https://simanisku.tubankab.go.id) • [Demo](https://www.youtube.com/live/PCkCVRHTwlk) |
 | **eSOP** | Centralized SOP documentation & approval | Laravel, Livewire, PostgreSQL | [Live](https://esop.tubankab.go.id) • [Demo](https://youtu.be/Y_8iWPJnXgk) |
 | **SiLadeni** | Social harmony early detection system | Laravel, Livewire, PostgreSQL | [Live](https://siladeni.tubankab.go.id) • [Demo](https://youtu.be/9Ov_ZZqwAgs) |
 | **SiPolmas** | Political party & organization reporting | Laravel, Livewire, PostgreSQL | [Live](https://sipolmas.tubankab.go.id) • [Demo](https://youtu.be/0F_ORLCNMdE) |
-| **RBAC Module** | Reusable authentication & authorization | Laravel, PostgreSQL | [Demo](https://youtu.be/NjHxrj3cWsw) |
+
 
 <details>
 <summary>More projects</summary>
