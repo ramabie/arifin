@@ -11,7 +11,7 @@
 
 📍 Tuban, East Java, Indonesia (GMT+7)  
 📧 rama.biee@gmail.com • 📱 +62 857-3057-9327  
-🌐 [Portfolio](https://simanisku.tubankab.go.id) • 🎥 [Demos on YouTube](https://www.youtube.com/@yourchannel)
+🌐 [Portfolio](https://simanisku.tubankab.go.id) • 🎥 [Demos on YouTube](https://youtube.com/@ramabie8557?si=Fa1buJj1YMFgy2Gm)
 
 ---
 
